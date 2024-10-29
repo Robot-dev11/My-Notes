@@ -1,0 +1,20 @@
+# MongoDB
+
+We will first look into structured and unstrucured database 
+
+Structured data --> Structured data is data that fits neatly into the data tables with a predefined schema and includes discrete data types such as numbers, string or dats.
+unstructured data --> unstructured data is data that doesn't fit neatly into a data table because it size and nature for example audio and video files and large text documents.
+
+## MongoDB
+MongoDB is an opensource NOSQL Database written in c++ language. it uses JSON-like documents with optional schemas. It provides easy scalibilty and is a cross-platform, document 
+oriented database.
+MongoDB works on collections and document. It combines the ability to scale out the features like aggregations, secondary indexes, range queries, sorting and geospatial indexes
+
+## Adavntages of MongoDB
+1) MongoDB bascially uses Javascript objects in place of procedures
+2) MongoDB uses dynamic database schema
+3) MongoDB is very easy to scale up and down.
+4) MongoDB has in-built support for data-partioning (Sharding).
+5) MongoDB support primary and secondary indexes on any fields.
+6) MongoDB supports field, range-based, string pattern matching type queries. for searching the data in the database.
+
